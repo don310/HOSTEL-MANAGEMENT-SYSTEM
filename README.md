@@ -1,7 +1,7 @@
 <h1 align="center">Hostel-Management-System</h1>
 <p>This is a hostel management software.It is create by using the programming language of C++.</p>
 
-<div align="center"><img src="./image/demo.png.png" alt="Hostel Logo" width="350"/>
+<div align="center"><img src="./demo.png.png" alt="Hostel Logo" width="350"/>
 </br></br>
 
 - [Live Demo]
