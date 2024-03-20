@@ -11,4 +11,4 @@
 - [Live Demo]
 </br>
 <p align="center">Made with C++</p>
-<p align="center">Copyright © 2024-Author Don310</p>
+<p align="center">Copyright © 2024 Author Don310</p>
