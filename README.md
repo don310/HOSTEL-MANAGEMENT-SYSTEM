@@ -4,7 +4,7 @@
 <div align="center"><img src="./demo.png.png" alt="Hostel Logo" width="350"/>
 </br></br>
 
-- [Live Demo]
+ [Live Demo]
 </br>
 
 
